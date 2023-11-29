@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     font-family: poppins, 'sans-serif';
+    background: #000;
 }
 a{
     text-decoration: none;
@@ -34,11 +35,13 @@ nav{
     width: 9vw;
     margin-left: 10px;
     /* padding-top: 2px; */
+    color: #fff;
 }
 
 .youTube svg{
     width: 100%;
     /* padding-top: 10px; */
+    /* color: #fff; */
 }
 
 .search{
@@ -47,6 +50,7 @@ nav{
     /* border: 2px solid rgb(78, 75, 75); */
     border-radius: 1vw;
     padding: 10px 0px;
+    
 }
 .search p input{
     height: 5.4vh;
@@ -65,12 +69,14 @@ nav{
     border-radius: 0 40px 40px 0;
     margin-left: -0.3vw;
     height: 2.4vh;
+    color: #fff;
 }
 
 .search .microphone i{
     padding: 13px 35px;
     font-weight: 600;
     font-size: 20px;
+    color: #fff;
 }
 .logos{
     display: flex;
@@ -81,6 +87,7 @@ nav{
 
 .logos p{
     font-size: 20px;
+    color: #fff;
 }
 
 .sidebar{
@@ -139,6 +146,7 @@ nav{
     align-items: flex-start;
     justify-content: space-between;
     flex-direction: column;
+    color: #fff;
 }
 
 .line{
@@ -149,6 +157,7 @@ nav{
 
 .main{
     display: flex;
+    background: #000;
 }
 
 .video-gallery{
